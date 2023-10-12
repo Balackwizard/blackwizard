@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "324198447633",
+    "firebase_url": "https://ninja-9f303-default-rtdb.firebaseio.com",
+    "project_id": "ninja-9f303",
+    "storage_bucket": "ninja-9f303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324198447633:android:167d10eed33fe4ac6d0fb0",
+        "android_client_info": {
+          "package_name": "sigma.male"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324198447633-g67aab16gfa6mghacqhaqhu1gu5f2au6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq4dsy5ifmgYoRM118DyeBuR2eU6RrK_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324198447633-g67aab16gfa6mghacqhaqhu1gu5f2au6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
